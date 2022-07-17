@@ -1,0 +1,14 @@
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.exe
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.deps.json
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.runtimeconfig.json
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.runtimeconfig.dev.json
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.dll
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\bin\Debug\netcoreapp3.1\WTRRB-CLE.pdb
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.csproj.AssemblyReference.cache
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.AssemblyInfoInputs.cache
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.AssemblyInfo.cs
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.csproj.CoreCompileInputs.cache
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.dll
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.pdb
+D:\WTRRB-CLE\WTRRB-CLE\WTRRB-CLE\obj\Debug\netcoreapp3.1\WTRRB-CLE.genruntimeconfig.cache

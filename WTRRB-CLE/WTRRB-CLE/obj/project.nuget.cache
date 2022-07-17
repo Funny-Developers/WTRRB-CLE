@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RpV9ynpExkvbwkso1RyPi2X7uqmWgE5fv1zKwHabce2WL4GmrEj6UromejYmGkNURv0Hvc7/a4rukmcX/l23ug==",
+  "success": true,
+  "projectFilePath": "D:\\WTRRB-CLE\\WTRRB-CLE\\WTRRB-CLE\\WTRRB-CLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
