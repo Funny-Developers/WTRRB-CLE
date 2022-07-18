@@ -14,7 +14,7 @@ namespace WTRRB_CLE
             Console.WriteLine(text);
             while (true)
             {
-                if (Console.ReadKey().Key == ConsoleKey.Enter)
+                if (Console.ReadKey(true).Key == ConsoleKey.Enter)
                 {
                     break;
                 }
@@ -27,7 +27,7 @@ namespace WTRRB_CLE
             Console.WriteLine(text);
             while (true)
             {
-                if (Console.ReadKey().Key == key)
+                if (Console.ReadKey(true).Key == key)
                 {
                     break;
                 }
@@ -39,6 +39,18 @@ namespace WTRRB_CLE
         {
             Console.WriteLine(text);
             Thread.Sleep(time);
+        }
+
+        public static void WaitKey(ConsoleKey key)
+        {
+            while (true)
+            {
+                if (Console.ReadKey(true).Key == key)
+                {
+                    break;
+                }
+                else { }
+            }
         }
     }
 }
